@@ -30,3 +30,4 @@
 
 내가 분석하여 시각화한 자료를, 학생들에게 배포할 수 있다.
 
+<img width="1064" alt="classroomResult" src="https://user-images.githubusercontent.com/64733547/199477339-b937555f-7969-4f09-96bd-e85f3b228630.png">
